@@ -2,7 +2,7 @@ body {
   background-color: #faa;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #111;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1;
   text-align: center;
 }
@@ -24,13 +24,13 @@ body {
 h1 {
   color: #222;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 21px;
+  font-size: 24px;
 }
 
 h3 {
   color: #222;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 a {
